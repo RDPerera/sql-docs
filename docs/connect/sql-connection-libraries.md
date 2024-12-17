@@ -31,6 +31,7 @@ The present article devotes separate sections to these two kinds of connection d
 
 | Language | Download the SQL driver |
 | :--- | :--- |
+| Ballerina |  [Ballerina MSSQL Driver](https://central.ballerina.io/ballerinax/mssql/latest) |
 | C# | [ADO.NET](https://dotnet.microsoft.com/download)<br />[Microsoft.Data.SqlClient](https://www.nuget.org/packages/Microsoft.Data.SqlClient/)<br />[.NET for: Linux-Ubuntu, macOS, Windows](https://dotnet.microsoft.com/download) |
 | C++ | [ODBC](odbc/download-odbc-driver-for-sql-server.md)<br /><br />[OLE DB](oledb/download-oledb-driver-for-sql-server.md) |
 | Go | [Go MSSQL driver, install instructions](https://github.com/microsoft/go-mssqldb#readme)<br />[Go download page](https://go.dev/dl/) |
